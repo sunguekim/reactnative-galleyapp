@@ -43,7 +43,6 @@ function* signOut(action: PayloadAction<SignOutAction>) {
         yield put(SignOut())
     } catch (error) {
         console.log(error);
-
     }
 }
 
