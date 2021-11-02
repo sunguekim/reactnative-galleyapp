@@ -7,9 +7,7 @@ import { RootState } from '../redux/rootReducer';
 import { NavigationParams } from 'react-navigation';
 import { StackNavigationProp } from '@react-navigation/stack';
 
-
 import { launchImageLibrary } from 'react-native-image-picker'
-import { defaultImg, icon } from '../assets/icon';
 
 export interface ProfileNavigationProps {
     navigation: StackNavigationProp<NavigationParams, 'Profile'>
