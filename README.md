@@ -1,1 +1,1 @@
-# reactnative-galleyapp
+# 식단체크 어플리케이션
