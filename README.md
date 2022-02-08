@@ -6,3 +6,11 @@
     <img width="205" height ="320" src="./asset/2.png">
     <img width="205" height ="320" src="./asset/4.png">
 </div>
+
+**Gallery**
+>식단 사진을 시간대와 종류에 맞춰 저장하는 어플리케이션 입니다
+
+|              | stack           |
+| ------------ | ----------------- |
+| `Front`      | ReactNative,TypeScript,Redux-Toolkit,Redux-saga |
+| `Bacj`       | FireBase |
