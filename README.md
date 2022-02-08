@@ -1,4 +1,4 @@
-#🍲 식단체크 어플리케이션
+#:bento: 식단체크 어플리케이션
 
 <div align="center">
     <img width="200" height ="320" src="./asset/홈.png">
