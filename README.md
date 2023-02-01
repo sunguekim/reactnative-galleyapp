@@ -15,4 +15,4 @@
 |              | stack           |
 | ------------ | ----------------- |
 | `Front`      | ReactNative,TypeScript,Redux-Toolkit,Redux-saga |
-| `Bacj`       | FireBase |
+| `Back`       | FireBase |
