@@ -1,6 +1,6 @@
 import React, { useEffect,useState } from 'react';
 import { StyleSheet } from 'react-native';
-import { Provider } from 'react-redux'
+import { Provider } from 'react-redux';
 
 
 import { store } from './src/redux/store';
